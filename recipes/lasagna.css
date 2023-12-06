@@ -1,0 +1,17 @@
+body {
+    background-color: greenyellow;
+}
+
+
+.h{
+    font-weight: bolder;
+    color:gold;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ol li{
+    color:brown;
+}
